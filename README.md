@@ -45,3 +45,8 @@ The dataset used for this analysis can be found on Kaggle [here](https://www.kag
 - **Cost Over Time**: Azure costs generally increase over time, with specific periods showing significant spikes.
 - **Cost Breakdown by Service**: Certain services are the main contributors to overall costs, highlighting areas for potential cost optimization.
 - **Cost Forecasting**: Future costs are projected to rise, necessitating careful budget planning and cost management.
+
+## 👩‍💻 Author
+
+- GitHub: [@rania3103](https://github.com/rania3103)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/rania-abassi-24105a249)
